@@ -15,3 +15,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parva-parmar&show_icons=true&locale=en" alt="parva-parmar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parva-parmar&" alt="parva-parmar" /></p>
+
+# CP Stats:
+<p width="100%">
+<img height="275em" src="https://leetcard.jacoblin.cool/parva_p42?theme=dark,nord&ext=contest" />
+<img width="50%" height="275em" src="https://codeforces-readme-stats.vercel.app/api/card?username=parva42" />
+<!-- <img height="280em" src="https://raw.githubusercontent.com/kushal_p_47/cf-stats/main/output/light_card.svg" /> -->
+</p>
